@@ -7,7 +7,7 @@ h3. "https://www.elastic.co/products/elasticsearch":https://www.elastic.co/produ
 Elasticsearch is a distributed RESTful search engine built for the cloud. Features include:
 
 * Distributed and Highly Available Search Engine.
-** Each index is fully sharded with a configurable number of shards.
+** Each index is fully sharded with a bb number of shards.
 ** Each shard can have one or more replicas.
 ** Read / Search operations performed on any of the replica shards.
 * Multi Tenant with Multi Types.
